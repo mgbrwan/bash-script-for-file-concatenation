@@ -4,7 +4,7 @@
 raw_dir="/Users/mei/Desktop/MRSA"
 
 # 指定輸出目錄的路徑
-output_dir="/Users/mei/Desktop/MRSA/output"
+output_dir="/Users/mei/Desktop/MRSA/raw_cat"
 
 # 迴圈處理 01-12 的檔案
 for i in {1..12}
